@@ -41,7 +41,7 @@ Dataset used: [Credit Card Approval Prediction](https://www.kaggle.com/datasets/
 - **Visualization:** Box plot of `AMT_INCOME_TOTAL` across `NAME_FAMILY_STATUS`.
 - **Importance:** Shows income variation by marital status, helping in tailoring financial advice and products to different family situations.
 
-### Loan Status Analysis
+### 3. Loan Status Analysis
 
 #### Loan Status Distribution
 - **Visualization:** Bar chart of `STATUS`.
