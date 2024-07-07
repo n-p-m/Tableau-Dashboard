@@ -2,6 +2,15 @@
 
 ## [Click To View The Public Dashboard](https://public.tableau.com/app/profile/nirmal.philipose.mathew/viz/CreditLoanDashboard_17202318210820/Dashboard1?publish=yes)
 
+## Summary
+These visualizations provide a comprehensive overview of the demographic, income, and credit status characteristics of the dataset, enabling:
+
+- **Targeted Insights:** Tailoring financial products and services to meet specific needs.
+- **Risk Assessment:** Developing strategies to mitigate financial risks by identifying patterns in loan defaults or overdue payments.
+- **Equity and Inclusion:** Ensuring financial products and services are equitable and accessible to all demographic groups.
+- **Strategic Planning:** Informing decision-makers with data-driven insights for strategic planning and policy development.
+
+Overall, these visualizations are critical for a deep and actionable understanding of the client base, enabling better decision-making and improved financial services.
 
 ## Data Source
 Dataset used: [Credit Card Approval Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv)
@@ -57,13 +66,3 @@ Dataset used: [Credit Card Approval Prediction](https://www.kaggle.com/datasets/
 #### Loan Status by Income
 - **Visualization:** Box plot of `AMT_INCOME_TOTAL` across `STATUS`.
 - **Importance:** Correlates income with loan status, identifying if lower-income groups are more likely to default, enabling targeted financial products and support to mitigate risks.
-
-## Summary
-These visualizations provide a comprehensive overview of the demographic, income, and credit status characteristics of the dataset, enabling:
-
-- **Targeted Insights:** Tailoring financial products and services to meet specific needs.
-- **Risk Assessment:** Developing strategies to mitigate financial risks by identifying patterns in loan defaults or overdue payments.
-- **Equity and Inclusion:** Ensuring financial products and services are equitable and accessible to all demographic groups.
-- **Strategic Planning:** Informing decision-makers with data-driven insights for strategic planning and policy development.
-
-Overall, these visualizations are critical for a deep and actionable understanding of the client base, enabling better decision-making and improved financial services.
