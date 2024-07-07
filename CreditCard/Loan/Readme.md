@@ -16,7 +16,7 @@ Overall, these visualizations are critical for a deep and actionable understandi
 Dataset used: [Credit Card Approval Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv)
 
 ## Analysis Overview
-
+### Dynamic Filters are applied to all the visuals in the dashboards. Therefore we could perform our analysis to specific set of people by filtering. 
 ### 1. Demographic Distribution
 
 #### Gender Distribution
