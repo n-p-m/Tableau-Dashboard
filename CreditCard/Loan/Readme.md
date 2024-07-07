@@ -1,6 +1,6 @@
 # Credit Card Approval Prediction Analysis
 
-## [Public Dashboard](https://public.tableau.com/app/profile/nirmal.philipose.mathew/viz/CreditLoanDashboard_17202318210820/Dashboard1?publish=yes)
+## [Click To View The Public Dashboard](https://public.tableau.com/app/profile/nirmal.philipose.mathew/viz/CreditLoanDashboard_17202318210820/Dashboard1?publish=yes)
 
 
 ## Data Source
