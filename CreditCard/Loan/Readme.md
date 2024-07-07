@@ -1,7 +1,7 @@
 # Credit Card Approval Prediction Analysis
 
 ## Data Source
-[Dashboard Public Dashboard](https://public.tableau.com/app/profile/nirmal.philipose.mathew/viz/CreditLoanDashboard_17202318210820/Dashboard1?publish=yes)
+[Public Dashboard](https://public.tableau.com/app/profile/nirmal.philipose.mathew/viz/CreditLoanDashboard_17202318210820/Dashboard1?publish=yes)
 
 Dataset used: [Credit Card Approval Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv)
 
